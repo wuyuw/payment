@@ -1,0 +1,4 @@
+payment/tests/static/
+payment/tests/templates/
+payment/tests/flask_test.py
+.idea/
